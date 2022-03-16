@@ -31,6 +31,8 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - uses: amiribenabdellah-personal/my-javascript-action@v1
+        with:
+          who-to-greet: 'Amiiiiir'
 
 
 
